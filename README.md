@@ -10,14 +10,14 @@ Priyanka</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Web Development Projects
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently Working on Java Projects
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
 - 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/priyanka200201/100DaysOfCoding" target="blank">100DaysOfCodeChallenge</a>
 
 
-- 💬 Ask me about *Web Development and Java*
+- 💬 Ask me about *Java*
 
 - 📫 How to reach me *priyanka.200102gupta@gmail.com* or *https://www.linkedin.com/in/priyanka-gupta-4728ba1a8/*
 
