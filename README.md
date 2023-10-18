@@ -9,7 +9,7 @@
 - 🌱 I’m continually learning and improving my skills.
 - 👯 I’m looking to collaborate with other data analysts, designers, and developers.
 - ⚡ I am also dedicated to creating data-driven and visually appealing designs.
-- 💬 Ask me about **Data Analysis, Data Visualization, and Front-End Design**
+- 💬 Ask me about **Data Analysis and Data Visualization**
 
 - 📫 How to reach me: **priyanka.200102gupta@gmail.com** or **[LinkedIn Profile](https://www.linkedin.com/in/priyankagupta2001/)**
 
