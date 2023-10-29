@@ -11,7 +11,7 @@
 - ⚡ I am also dedicated to creating data-driven and visually appealing designs.
 - 💬 Ask me about **Data Analysis and Data Visualization**
 
-- 📫 How to reach me: **priyanka.200102gupta@gmail.com** or **[LinkedIn Profile](www.linkedin.com/in/priyankagupta20)**
+- 📫 How to reach me: **priyanka.200102gupta@gmail.com** or **[LinkedIn Profile]([www.linkedin.com/in/priyankagupta20](https://www.linkedin.com/in/priyankagupta20/))**
 
 - 📄 Know about my experiences <a href=" " target="blank">Resume</a>
 <br/>
