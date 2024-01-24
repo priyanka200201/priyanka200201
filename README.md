@@ -24,7 +24,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/priyanka200201">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href=" ">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1rNs74cgJj8T1aEpfNUIAhzAn_Gm2F1xW/view?usp=drivesdk">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
