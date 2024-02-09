@@ -25,7 +25,8 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/priyanka200201">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/19mK_bFIQ-BQmjB_Wo9A7aHhqtH9DuL_T/view?usp=drivesdk">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+					<img src="![image](https://github.com/priyanka200201/priyanka200201/assets/79127419/68db32ea-8746-4fd0-a0f4-4f879b71a162)
+"></a>
       </div>
 
 </p>
