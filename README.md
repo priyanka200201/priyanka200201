@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **priyanka.200102gupta@gmail.com** or **[LinkedIn Profile](https://www.linkedin.com/in/priyankagupta20/)**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rNs74cgJj8T1aEpfNUIAhzAn_Gm2F1xW/view?usp=drivesdk" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1rNs74cgJj8T1aEpfNUIAhzAn_Gm2F1xW/view?usp=drivesdk](https://drive.google.com/file/d/19mK_bFIQ-BQmjB_Wo9A7aHhqtH9DuL_T/view?usp=drive_link)" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -24,7 +24,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/priyanka200201">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1rNs74cgJj8T1aEpfNUIAhzAn_Gm2F1xW/view?usp=drivesdk">
+		<a style="margin-left: 5px;" target="_blank" href="[https://drive.google.com/file/d/1rNs74cgJj8T1aEpfNUIAhzAn_Gm2F1xW/view?usp=drivesdk](https://drive.google.com/file/d/19mK_bFIQ-BQmjB_Wo9A7aHhqtH9DuL_T/view?usp=drive_link)">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
